@@ -5,6 +5,7 @@ Technologies:
 - HTML
 - CSS
   - Flexbox
+  - Grid
 - Git
 - JavaScript
 
