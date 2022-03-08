@@ -6,7 +6,7 @@ Technologies:
 - CSS
   - Flexbox
   - Grid
-- Git
 - JavaScript
+- Git
 
 You can reach me at jpg174@gmail.com.
