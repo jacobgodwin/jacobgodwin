@@ -9,4 +9,4 @@ Technologies:
 - JavaScript
 - Git
 
-You can reach me at jpg174@gmail.com.
+You can reach me at jacobpgodwin@gmail.com.
