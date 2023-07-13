@@ -2,11 +2,12 @@ Hey! I'm [Jacob Godwin](https://github.com/jacobgodwin), and I'm currently study
 
 Technologies:
 
+- JavaScript
+  - React
 - HTML
 - CSS
   - Flexbox
   - Grid
-- JavaScript
 - Git
 
 You can reach me at jacobpgodwin@gmail.com.
